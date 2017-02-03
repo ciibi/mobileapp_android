@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="64245288366511"
+    token="4540066796019699798"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="549" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="336" />
+    <task
+        name="verifier"
+        duration="118" />
+
+    <artifact
+        location="/Users/luissantos/AndroidStudioProjects/Ciibi/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="64245288366511"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/luissantos/AndroidStudioProjects/Ciibi/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

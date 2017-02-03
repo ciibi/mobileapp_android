@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/luissantos/AndroidStudioProjects/Ciibi/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/luissantos/AndroidStudioProjects/Ciibi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_12cd4782c7fa9f5feac2fc29b2fef06282970ba2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luissantos/AndroidStudioProjects/Ciibi/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/luissantos/AndroidStudioProjects/Ciibi/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_bb97fee9a8e220505087b8edb6e33cb0588c2f1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luissantos/AndroidStudioProjects/Ciibi/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/luissantos/AndroidStudioProjects/Ciibi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_3ff5379dc678cf88f4f6c5842b5ec01592ac2490/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luissantos/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/luissantos/AndroidStudioProjects/Ciibi/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_48521843c9a4eb5dbfec6f8d57415a4435c78174/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luissantos/AndroidStudioProjects/Ciibi/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/luissantos/AndroidStudioProjects/Ciibi/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_da05d8208e2d78930be77cc5612eba1527a3bbb4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luissantos/AndroidStudioProjects/Ciibi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/luissantos/AndroidStudioProjects/Ciibi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_1f9ee62b1f9a71043fb15ef03e2b11373c3689dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luissantos/AndroidStudioProjects/Ciibi/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/luissantos/AndroidStudioProjects/Ciibi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_a4a55159ffc9008277050dea063a5d2bc76afb20/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luissantos/AndroidStudioProjects/Ciibi/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/luissantos/AndroidStudioProjects/Ciibi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_99cd234add1c830573540f6570496eec76c3a7d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luissantos/AndroidStudioProjects/Ciibi/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6c96bbecd2710a4a81d91fec836eeeeadc2d7c51">
+        <dex dex="/Users/luissantos/AndroidStudioProjects/Ciibi/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fd7b6114b071a273d16be66b0d21c19a27ac3953/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luissantos/AndroidStudioProjects/Ciibi/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/luissantos/AndroidStudioProjects/Ciibi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_a5b10d0826c0c8606bd0476554018f5f1f4c7ec6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luissantos/AndroidStudioProjects/Ciibi/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/luissantos/AndroidStudioProjects/Ciibi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_f46b635ea75418024a0c07d9d2a336f99ba10ea0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luissantos/AndroidStudioProjects/Ciibi/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="27f9480550440910acfa21c80ef157cf8011b360">
+        <dex dex="/Users/luissantos/AndroidStudioProjects/Ciibi/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f04df018f2637a836800ba11193fb70c6ede523b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luissantos/AndroidStudioProjects/Ciibi/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/luissantos/AndroidStudioProjects/Ciibi/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_06b193ce84d70efc0fb1d6f30d08981c197c5000/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luissantos/AndroidStudioProjects/Ciibi/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/luissantos/AndroidStudioProjects/Ciibi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_91d72e1350b69ceab40eb7036522b40a3bccd731/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luissantos/AndroidStudioProjects/Ciibi/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/luissantos/AndroidStudioProjects/Ciibi/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_17c60af04eebd4f2d69fc84004e06411673b0559/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luissantos/AndroidStudioProjects/Ciibi/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/luissantos/AndroidStudioProjects/Ciibi/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_44a76a7ed66ffd01969451de8d38dd995d770d89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luissantos/AndroidStudioProjects/Ciibi/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/luissantos/AndroidStudioProjects/Ciibi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_39ddef3d74809c92f7d139214cc5f92c43b32c4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luissantos/AndroidStudioProjects/Ciibi/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/luissantos/AndroidStudioProjects/Ciibi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_142b45a24fac671b92c57e01b2dd75297d05178e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luissantos/AndroidStudioProjects/Ciibi/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/luissantos/AndroidStudioProjects/Ciibi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_8b34c26ccfd1fcdde8de6f4a6ae10b1b2ba5ba6e/classes.dex" />
+    </item>
+
+</items>

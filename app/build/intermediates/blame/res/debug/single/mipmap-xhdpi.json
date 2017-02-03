@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/luissantos/AndroidStudioProjects/Ciibi/app/build/intermediates/res/merged/debug/mipmap-xhdpi/tl_inicio.png",
+        "source": "/Users/luissantos/AndroidStudioProjects/Ciibi/app/src/main/res/mipmap-xhdpi/tl_inicio.png"
+    },
+    {
+        "merged": "/Users/luissantos/AndroidStudioProjects/Ciibi/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ciibi.png",
+        "source": "/Users/luissantos/AndroidStudioProjects/Ciibi/app/src/main/res/mipmap-xhdpi/ciibi.png"
+    },
+    {
+        "merged": "/Users/luissantos/AndroidStudioProjects/Ciibi/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/luissantos/AndroidStudioProjects/Ciibi/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]

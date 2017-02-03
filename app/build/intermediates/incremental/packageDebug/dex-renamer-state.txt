@@ -1,0 +1,7 @@
+#Fri Feb 03 09:34:33 BRST 2017
+base.0=/Users/luissantos/AndroidStudioProjects/Ciibi/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f04df018f2637a836800ba11193fb70c6ede523b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/luissantos/AndroidStudioProjects/Ciibi/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fd7b6114b071a273d16be66b0d21c19a27ac3953/classes.dex
+base.1=/Users/luissantos/AndroidStudioProjects/Ciibi/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fd7b6114b071a273d16be66b0d21c19a27ac3953
+file.0=/Users/luissantos/AndroidStudioProjects/Ciibi/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f04df018f2637a836800ba11193fb70c6ede523b/classes.dex

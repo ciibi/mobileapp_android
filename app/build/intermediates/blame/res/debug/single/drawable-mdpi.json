@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/luissantos/AndroidStudioProjects/Ciibi/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_directions_run_black_24dp.png",
+        "source": "/Users/luissantos/AndroidStudioProjects/Ciibi/app/build/generated/res/pngs/debug/drawable-mdpi/ic_directions_run_black_24dp.png"
+    },
+    {
+        "merged": "/Users/luissantos/AndroidStudioProjects/Ciibi/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_directions_bike_black_24dp.png",
+        "source": "/Users/luissantos/AndroidStudioProjects/Ciibi/app/build/generated/res/pngs/debug/drawable-mdpi/ic_directions_bike_black_24dp.png"
+    },
+    {
+        "merged": "/Users/luissantos/AndroidStudioProjects/Ciibi/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_public_black_24dp.png",
+        "source": "/Users/luissantos/AndroidStudioProjects/Ciibi/app/build/generated/res/pngs/debug/drawable-mdpi/ic_public_black_24dp.png"
+    },
+    {
+        "merged": "/Users/luissantos/AndroidStudioProjects/Ciibi/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_report_problem_black_24dp.png",
+        "source": "/Users/luissantos/AndroidStudioProjects/Ciibi/app/build/generated/res/pngs/debug/drawable-mdpi/ic_report_problem_black_24dp.png"
+    }
+]
